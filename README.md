@@ -54,6 +54,9 @@ Implementação de uma Máquina de Estados (FSM) que gere o fluxo do jogo atrav�
 
   FimDeJogo: Processamento de pontuação final e opção de reinício.
 
+  <img width="995" height="126" alt="image" src="https://github.com/user-attachments/assets/9c5fad72-db3b-4c8b-9c62-bef189e4b5c1" />
+
+
 🎥 Câmara e Transformações de Matriz
 Utilização de Matrix Mathematics (Matrix.CreateTranslation) para criar uma câmara virtual que mantém o jogador centralizado. O sistema inclui a conversão de coordenadas do ecrã para o mundo (Vector2.Transform),
 permitindo que a mira do rato seja precisa mesmo com a câmara em movimento.
